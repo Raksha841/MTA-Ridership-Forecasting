@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+folium
+branca
+statsmodels
+prophet
+scikit-learn
+xgboost
+dmba
+openai
+gradio
+reportlab
